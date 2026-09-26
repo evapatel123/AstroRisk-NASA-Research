@@ -1,0 +1,129 @@
+ASTRORISK SOURCE-AVAILABLE RESEARCH LICENSE
+Version 1.0
+
+Copyright (c) 2026 Eva J. Patel
+All rights reserved.
+
+1. PROJECT OWNERSHIP
+
+AstroRisk ("the Project") is an original software and research project
+developed and maintained by Eva J. Patel.
+
+Eva J. Patel remains the primary author and developer of the Project.
+
+No contribution, modification, fork, derivative work, or redistribution
+shall remove, obscure, replace, or misrepresent Eva J. Patel as the
+author and developer of AstroRisk.
+
+2. PERMITTED USE
+
+Permission is granted to individuals to:
+
+- view the source code;
+- study the source code;
+- run the software for personal, educational, research, and
+  non-commercial purposes;
+- modify the software for personal, educational, and research purposes;
+- submit improvements and contributions to the Project.
+
+3. ATTRIBUTION REQUIREMENT
+
+Any copy, fork, derivative work, substantial modification, presentation,
+publication, demonstration, or redistribution of AstroRisk must retain
+clear attribution to:
+
+"AstroRisk — developed by Eva J. Patel"
+
+The attribution must be visible in the project's documentation,
+repository, application interface, or other appropriate prominent
+location.
+
+Removing or intentionally obscuring this attribution is not permitted.
+
+4. AUTHORSHIP
+
+Contributors may receive additional attribution for their specific
+contributions.
+
+However, contributors may not represent themselves as the sole,
+primary, original, or replacing author/developer of AstroRisk.
+
+The following attribution must remain:
+
+"Author & Developer: Eva J. Patel"
+
+5. CONTRIBUTIONS
+
+Contributions are permitted through pull requests, patches, issues,
+documentation, research suggestions, or other accepted contribution
+mechanisms.
+
+Acceptance of a contribution does not transfer ownership of the
+Project from Eva J. Patel.
+
+Contributors retain rights to original material they independently
+contribute to the extent permitted by applicable law, while granting
+permission for that contribution to be incorporated into AstroRisk.
+
+6. REDISTRIBUTION
+
+Redistribution of the Project or substantial portions of the Project
+is permitted only when:
+
+- the original attribution to Eva J. Patel is retained;
+- this license is included;
+- the original repository is identified when reasonably possible;
+- the redistributed version does not falsely imply that it was
+  originally developed by another person or organization.
+
+7. COMMERCIAL USE
+
+Commercial use, commercial redistribution, sublicensing, or sale of
+AstroRisk or substantial portions of AstroRisk requires prior written
+permission from Eva J. Patel.
+
+8. TRADEMARK AND NAME
+
+The name "AstroRisk" may not be used to falsely imply endorsement,
+official affiliation, or authorization by Eva J. Patel, NASA, JPL, or
+any other organization.
+
+9. NASA AND JPL
+
+AstroRisk uses publicly available NASA NeoWs data.
+
+This license does not grant ownership of NASA, JPL, or other third-party
+data, trademarks, services, or intellectual property.
+
+NASA and JPL are not sponsors or endorsers of AstroRisk.
+
+10. NO WARRANTY
+
+AstroRisk is provided for educational, research, and software-development
+purposes.
+
+The Project is provided "AS IS", without warranty of any kind.
+
+The developer is not responsible for damages, losses, incorrect
+interpretations, or decisions resulting from use of the software.
+
+11. CHANGES
+
+Eva J. Patel may change the licensing terms for future versions of
+AstroRisk.
+
+Existing versions remain governed by the license distributed with
+those versions unless otherwise agreed in writing.
+
+12. CONTACT
+
+For licensing, commercial-use, or redistribution questions, contact
+Eva J. Patel through the contact information associated with the
+official AstroRisk repository.
+
+------------------------------------------------------------
+
+ASTRORISK
+
+Author & Developer:
+Eva J. Patel
